@@ -8,21 +8,16 @@ An AI-powered career guidance application that analyzes resumes and provides \*\
 
 \## 🚀 Features
 
-\- Resume analysis using \*\*DeepSeek LLM\*\* + \*\*Transformers\*\*
+\- Resume analysis using DeepSeek LLM + Transformers
 
-\- Career prediction with \*\*PyTorch\*\* models
+\- Career prediction with PyTorch models
 
-\- Interactive dashboard built with \*\*Streamlit\*\*
+\- Interactive dashboard built with Streamlit
 
 \- Skill gap detection + recommendations
 
 \- Real-time insights from job market signals (GitHub, StackOverflow, Google Trends)
 
-
-
-\## ⚡ Live Demo
-
-👉 \[Streamlit App](https://career-path-generator.streamlit.app)
 
 
 
@@ -40,7 +35,7 @@ python -m venv .venv
 
 pip install -r requirements.txt
 
-streamlit run app2compul1.py
+streamlit run main.py
 
 
 
